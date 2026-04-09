@@ -11,6 +11,8 @@
   "dependencies": {
     "@vitejs/plugin-react": "^5.1.4",
     "clsx": "2.1.1",
+    "firebase": "^12.9.0",
+    "lucide-react": "^0.574.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "tailwind-merge": "3.4.0"
